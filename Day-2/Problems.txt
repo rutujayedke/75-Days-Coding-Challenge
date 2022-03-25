@@ -1,1 +1,5 @@
-
+Day 2 of 75 Days Coding Challenge:
+1. https://leetcode.com/problems/squares-of-a-sorted-array/
+2. https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+3. https://leetcode.com/problems/find-pivot-index/
+4. https://leetcode.com/problems/majority-element/
