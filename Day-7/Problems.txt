@@ -1,1 +1,6 @@
+@everyone Day 7 questions are:
+1. https://leetcode.com/problems/find-the-duplicate-number/
+2. https://leetcode.com/problems/combination-sum/
+3. https://leetcode.com/problems/jump-game-ii/
+4. https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 
