@@ -1,1 +1,6 @@
 
+@everyone Day 4 of 75 Days Coding Challenge:
+1. https://leetcode.com/problems/insert-delete-getrandom-o1/
+2. https://leetcode.com/problems/subarray-sum-equals-k/
+3. https://leetcode.com/problems/next-permutation/
+4. https://leetcode.com/problems/container-with-most-water/
