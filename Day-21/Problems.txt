@@ -1,0 +1,5 @@
+@everyone Day 21 questions:
+https://leetcode.com/problems/delete-node-in-a-linked-list/
+https://leetcode.com/problems/add-two-numbers-ii/
+https://leetcode.com/problems/intersection-of-two-linked-lists/
+https://leetcode.com/problems/palindrome-linked-list/
